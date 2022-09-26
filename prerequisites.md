@@ -12,7 +12,7 @@ Let’s create a retrieval based chatbot using NLTK, Keras, Python, etc.
 
 The dataset we will be using is ‘intents.json’. This is a JSON file that contains the patterns we need to find and the responses we want to return to the user.
 
-Please download python chatbot code & dataset from the following link: [**Python Chatbot Code & Dataset**](https://data-flair.training/blogs/download-python-chatbot-data-project-source-code/)
+Please download python chatbot code & dataset from the following link: [**Python Chatbot Code & Dataset**](https://github.com/anilkumarKanasani/chatbot)****
 
 
 
