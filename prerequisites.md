@@ -1,7 +1,3 @@
----
-layout: editorial
----
-
 # Prerequisites
 
 #### About the Python Project – Chatbot
