@@ -5,7 +5,7 @@
 Now, we will create the training data in which we will provide the input and the output. Our input will be the pattern and output will be the class our input pattern belongs to. But the computer doesn’t understand text so we will convert text into numbers.
 
 ```python
-// Some code
+# Python Code
 # create our training data
 training = []
 # create an empty array for our output

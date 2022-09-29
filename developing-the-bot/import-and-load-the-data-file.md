@@ -7,7 +7,7 @@ First, make a file name as train\_chatbot.py. We import the necessary packages f
 The data file is in JSON format so we used the json package to parse the JSON file into Python.
 
 ```python
-// Some code
+# Python Code
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()

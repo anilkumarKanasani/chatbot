@@ -9,7 +9,7 @@ Tokenizing is the most basic and first thing you can do on text data. Tokenizing
 Here we iterate through the patterns and tokenize the sentence using nltk.word\_tokenize() function and append each word in the words list. We also create a list of classes for our tags.
 
 ```python
-// Some code
+# Python Code
 for intent in intents['intents']:
     for pattern in intent['patterns']:
 
@@ -27,7 +27,7 @@ for intent in intents['intents']:
 Now we will lemmatize each word and remove duplicate words from the list. Lemmatizing is the process of converting a word into its lemma form and then creating a pickle file to store the Python objects which we will use while predicting.
 
 ```python
-// Some code
+# Python Code
 # lemmatize, lower each word and remove duplicates
 words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words]
 words = sorted(list(set(words)))

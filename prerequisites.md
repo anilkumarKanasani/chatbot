@@ -21,7 +21,7 @@ Please download python chatbot code & dataset from the following link: [**Python
 The project requires you to have good knowledge of Python, Keras, and [_**Natural language processing (NLTK)**_](https://www.nltk.org/). Along with them, we will use some helping modules which you can download using the python-pip command.
 
 ```python
-// Some code
+# Python Code
 pip install tensorflow, keras, pickle, nltk
 ```
 
